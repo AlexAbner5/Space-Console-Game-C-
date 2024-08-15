@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Losma\\Desktop\\SpaceDead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|c:\\users\\losma\\desktop\\spacedead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|c:\\users\\losma\\desktop\\spacedead\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|c:\\users\\losma\\desktop\\spacedead\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|c:\\users\\losma\\desktop\\spacedead\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|solutionrelative:spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|c:\\users\\losma\\desktop\\spacedead\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F974E-BEC0-48FE-8F1D-EF0B48D8C8AE}|SpaceDead.csproj|solutionrelative:window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:10:35.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:28:03.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:51:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Spaceship.cs",
+              "RelativeDocumentMoniker": "Spaceship.cs",
+              "ToolTip": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Spaceship.cs",
+              "RelativeToolTip": "Spaceship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:50:52.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Window.cs",
+              "RelativeDocumentMoniker": "Window.cs",
+              "ToolTip": "C:\\Users\\Losma\\Desktop\\SpaceDead\\Window.cs",
+              "RelativeToolTip": "Window.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:45:56.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

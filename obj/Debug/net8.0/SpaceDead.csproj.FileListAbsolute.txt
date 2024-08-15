@@ -1,0 +1,14 @@
+C:\Users\Losma\Desktop\SpaceDead\bin\Debug\net8.0\SpaceDead.exe
+C:\Users\Losma\Desktop\SpaceDead\bin\Debug\net8.0\SpaceDead.deps.json
+C:\Users\Losma\Desktop\SpaceDead\bin\Debug\net8.0\SpaceDead.runtimeconfig.json
+C:\Users\Losma\Desktop\SpaceDead\bin\Debug\net8.0\SpaceDead.dll
+C:\Users\Losma\Desktop\SpaceDead\bin\Debug\net8.0\SpaceDead.pdb
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.AssemblyInfoInputs.cache
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.AssemblyInfo.cs
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.csproj.CoreCompileInputs.cache
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.dll
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\refint\SpaceDead.dll
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.pdb
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\SpaceDead.genruntimeconfig.cache
+C:\Users\Losma\Desktop\SpaceDead\obj\Debug\net8.0\ref\SpaceDead.dll
